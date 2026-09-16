@@ -22,6 +22,10 @@ int main(int argc, char **argv)
 	printf ("  *******\n");
 	printf ("   HHOHH\n");
 	printf ("   ZZZZZ\n");
+	//printf ("Has he lost his mind?\n");
+	//printf ("Can he see, or is he blind?\n");
+	//printf ("Can he walk at all?\n");
+	//printf ("Or if he moves, will he fall?\n");
 	return 0;
 }
 
